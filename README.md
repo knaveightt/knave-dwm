@@ -76,7 +76,8 @@ listing up-to-date as I implement these changes.
 ## Mini Change-Log
 
 **2024-01-30**
-- Updated README with branch explanations
+- `knave-dwm` Updated README with patch listing
+- `main` Updated README with branch explanations
 
 **2024-01-19**
 - Created repository
