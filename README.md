@@ -13,21 +13,20 @@ listing up-to-date as I implement these changes.
 ### Quality of Life
 > Patches making it easier to work with dwm overall, especially when updating it
 
-| Patch or Change | Description | Link   |
-|-----------------|-------------|--------|
-| restartsig      |             |        |
-| autostart       |             |        |
-
+| Patch or Change | Description                                          | Link                                                                                       |
+|-----------------|------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| restartsig      | [Link](https://dwm.suckless.org/patches/restartsig/) | [Download](https://dwm.suckless.org/patches/restartsig/dwm-restartsig-20180523-6.2.diff)   |
+| autostart       | [Link](https://dwm.suckless.org/patches/autostart/)  | [Download](https://dwm.suckless.org/patches/autostart/dwm-autostart-20210120-cb3f58a.diff) |
 
 ### Aesthetics
 > Patches that allow me to implement colors and other visual changes more easily
 
-| Patch or Change     | Description | Link |
-|---------------------|-------------|------|
-| xresources          |             |      |
-| colorbar            |             |      |
-| rainbowtags         |             |      |
-| status2d (+systray) |             |      |
+| Patch or Change    | Description                                           | Link                                                                                         |
+|--------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| xresources         | [Link](https://dwm.suckless.org/patches/xresources/)  | [Download](https://dwm.suckless.org/patches/xresources/dwm-xresources-20210827-138b405.diff) |
+| colorbar           | [Link](https://dwm.suckless.org/patches/colorbar/)    | [Download](https://dwm.suckless.org/patches/colorbar/dwm-colorbar-6.3.diff)                  |
+| rainbowtags        | [Link](https://dwm.suckless.org/patches/rainbowtags/) | [Download](https://dwm.suckless.org/patches/rainbowtags/dwm-rainbowtags-6.2.diff)            |
+| status2d(+systray) | [Link](https://dwm.suckless.org/patches/status2d/)    | [Download](https://dwm.suckless.org/patches/status2d/dwm-status2d-systray-6.4.diff)          |
 
 ### Status Bar Area
 > Patches modifying how the statusbar area will work
@@ -74,6 +73,8 @@ listing up-to-date as I implement these changes.
 
 
 ## Mini Change-Log
+**2024-01-31**
+- Updated README with patch links
 
 **2024-01-30**
 - `knave-dwm` Updated README with patch listing
