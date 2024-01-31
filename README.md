@@ -31,23 +31,23 @@ listing up-to-date as I implement these changes.
 ### Status Bar Area
 > Patches modifying how the statusbar area will work
 
-| Patch or Change | Description | Link |
-|-----------------|-------------|------|
-| statuscmd       |             |      |
+| Patch or Change | Description                                         | Link                                                                                                |
+|-----------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| statuscmd       | [Link](https://dwm.suckless.org/patches/statuscmd/) | [Download](https://dwm.suckless.org/patches/statuscmd/dwm-statuscmd-status2d-20210405-60bb3df.diff) |
 
 ### Tags and Tag Area
 > Patches modifying how the tags and the tag bar area work
 
-| Patch or Change          | Description | Link |
-|--------------------------|-------------|------|
-| hide_vacant_tags         |             |      |
-| alternativetags          |             |      |
-| underlinetags            |             |      |
-| viewoccupied*            |             |      |
-| adjacenttag (skipvacant) |             |      |
-| statusbutton             |             |      |
-| layoutmenu               |             |      |
-| tagareaorder*            |             |      |
+| Patch or Change         | Description                                                | Link                                                                                             |
+|-------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| hide_vacant_tags        | [Link](https://dwm.suckless.org/patches/hide_vacant_tags/) | [Download](https://dwm.suckless.org/patches/hide_vacant_tags/dwm-hide_vacant_tags-6.3.diff)      |
+| alternativetags         | [Link](https://dwm.suckless.org/patches/alternativetags/)  | [Download](https://dwm.suckless.org/patches/alternativetags/dwm-alternativetags-6.3.diff)        |
+| underlinetags           | [Link](https://dwm.suckless.org/patches/underlinetags/)    | [Download](https://dwm.suckless.org/patches/underlinetags/dwm-underlinetags-6.2.diff)            |
+| viewoccupied*           | Custom function to select occupied tags only               | Commit ID TBD                                                                                    |
+| adjacenttag(skipvacant) | [Link](https://dwm.suckless.org/patches/adjacenttag/)      | [Download](https://dwm.suckless.org/patches/adjacenttag/dwm-adjacenttag-skipvacant-6.2.diff)     |
+| statusbutton            | [Link](https://dwm.suckless.org/patches/statusbutton/)     | [Download](https://dwm.suckless.org/patches/statusbutton/dwm-statusbutton-20180524-c8e9479.diff) |
+| layoutmenu              | [Link](https://dwm.suckless.org/patches/layoutmenu/)       | [Download](https://dwm.suckless.org/patches/layoutmenu/dwm-layoutmenu-6.2.diff)                  |
+| tagareaorder*           | Custom function to change order of layout and tags         | Commit ID TBD                                                                                    |
 
 ### Client Functionality
 > Patches that change the way windows work in the stack
