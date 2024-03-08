@@ -67,12 +67,15 @@ listing up-to-date as I implement these changes.
 
 | Patch or Change       | Description                                          | Patch                                                                                |
 |-----------------------|------------------------------------------------------|--------------------------------------------------------------------------------------|
-| vanitygaps (+layouts) | [Link](https://dwm.suckless.org/patches/vanitygaps/) | [Download](https://dwm.suckless.org/patches/vanitygaps/dwm-vanitygaps-6.2.diff)      |
+| vanitygaps(+layouts) | [Link](https://dwm.suckless.org/patches/vanitygaps/) | [Download](https://dwm.suckless.org/patches/vanitygaps/dwm-vanitygaps-6.2.diff)      |
 | pertag                | [Link](https://dwm.suckless.org/patches/pertag/)     | [Download](https://dwm.suckless.org/patches/pertag/dwm-pertag-20200914-61bb8b2.diff) |
 | winview               | [Link](https://dwm.suckless.org/patches/winview/)    | [Download](https://dwm.suckless.org/patches/winview/dwm-6.0-winview.diff)            |
 
 
 ## Mini Change-Log
+**2024-03-08**
+- Added patches and patch download script
+
 **2024-02-29**
 - Updated README with final patch link updates
 
